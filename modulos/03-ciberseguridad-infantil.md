@@ -35,7 +35,9 @@ Las herramientas de control parental son aplicaciones o funciones integradas en 
 **Gestión de Tiempo de Pantalla:** Permiten establecer límites de tiempo para el uso de dispositivos o aplicaciones, programar horarios de uso y bloquear el acceso durante ciertas horas (ej. durante el horario escolar o de sueño).
 
 ![Configurar Controles Parentales con Family Link](../imagenes/SRwh5KWf6fJB.jpg)
+
 *Imagen: Configurar controles parentales con Family Link - Centro de Seguridad de Google*
+
 
 **Monitoreo de Actividad:** Ofrecen informes sobre las aplicaciones utilizadas, los sitios web visitados, el historial de búsqueda y, en algunos casos, la actividad en redes sociales. Es crucial utilizar estas funciones de manera ética y transparente con los menores.
 
@@ -58,7 +60,9 @@ Las herramientas de control parental son aplicaciones o funciones integradas en 
 **Controles de Router:** Algunos routers permiten configurar filtros de contenido y horarios de acceso a internet para todos los dispositivos conectados a la red doméstica.
 
 ![7 Características para Mejorar la Seguridad Infantil Online](../imagenes/w7ifm4LnofFc.webp)
+
 *Imagen: 7 características para mejorar la seguridad infantil mientras están online - Aplicación de Control Parental Safes*
+
 
 ## 3.3. Políticas de Uso Seguro para Padres y Docentes
 
