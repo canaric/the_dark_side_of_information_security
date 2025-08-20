@@ -3,7 +3,9 @@
 La teoría es fundamental, pero la experiencia práctica es insustituible para desarrollar una verdadera capacidad de respuesta ante incidentes cibernéticos. Las simulaciones permiten a los participantes aplicar los conocimientos adquiridos en un entorno controlado, cometer errores sin consecuencias reales y aprender de ellos. La creación de un plan de protección digital, por su parte, traduce la teoría en acciones concretas y personalizadas [6].
 
 ![5 Pasos para Crear un Plan de Respuesta a Incidentes](../imagenes/RWBW7g2gjz1M.png)
+
 *Imagen: Cómo crear un plan de respuesta a incidentes - 5 pasos básicos según BitSight Technologies*
+
 
 ## 5.1. Importancia de las Simulaciones de Incidentes
 
@@ -20,7 +22,9 @@ Las simulaciones de incidentes cibernéticos, como la que se propone en este sem
 **Concientización Realista:** Demuestran la rapidez con la que un ataque puede escalar y el impacto que puede tener, reforzando la necesidad de una vigilancia constante.
 
 ![Cómo Crear un Plan de Respuesta a Incidentes - Guía Detallada](../imagenes/gtS0AgJsdzgC.png)
+
 *Imagen: Cómo crear un plan de respuesta a incidentes - Guía detallada de UpGuard con proceso completo*
+
 
 ## 5.2. Diseño de la Simulación de Ransomware
 
