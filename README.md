@@ -1,6 +1,7 @@
 # Seminario: El Lado Oscuro de la Seguridad de la Información
 
 ![Fundamentos de Ciberseguridad - Tríada CIA](imagenes/1inh9UHJpXAc.jpeg)
+
 *Imagen: Representación visual de la Tríada CIA (Confidencialidad, Integridad, Disponibilidad) - Fundamentos de la ciberseguridad*
 
 ## Módulo 1: Ciberseguridad en el Entorno Educativo y Familiar
@@ -10,6 +11,7 @@
 El presente documento aborda en profundidad los contenidos del Módulo 3 del seminario "El lado oculto de la Seguridad de la Información", diseñado para docentes universitarios y alumnos de Gendarmería Nacional. Este módulo se centra en la ciberseguridad desde sus fundamentos hasta su aplicación en contextos educativos y familiares, con un énfasis particular en la protección de menores y el rol crucial de los educadores en la promoción de una cultura digital segura. 
 
 ![Principales Amenazas Cibernéticas](imagenes/aqyRCph4gpyt.png)
+
 *Imagen: Las 10 principales amenazas cibernéticas actuales - Panorama de riesgos digitales*
 
 Dada la creciente interconexión y dependencia tecnológica, es imperativo que tanto profesionales como estudiantes comprendan las amenazas emergentes y adquieran las herramientas necesarias para protegerse a sí mismos y a las comunidades que sirven.
@@ -27,6 +29,7 @@ El módulo se estructura para proporcionar una comprensión integral de los conc
 5. **[Simulación de Incidente y Creación de Plan de Protección Digital](modulos/05-simulacion-incidentes.md)**
 
 ![Educación Digital y Alfabetización Tecnológica](imagenes/VSvvGMjidUKo.png)
+
 *Imagen: Cómo enseñar alfabetización digital - Estrategias educativas para la era digital*
 
 ### Recursos Adicionales
