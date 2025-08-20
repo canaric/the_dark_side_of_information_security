@@ -37,7 +37,9 @@ Las redes sociales, si no se utilizan de forma segura, pueden exponer a los meno
 **Adicción y Uso Excesivo:** El uso desmedido de redes sociales puede afectar el rendimiento académico, el sueño y las relaciones interpersonales.
 
 ![Niños y Grooming - Depredadores Online](../imagenes/IxNC6H9koYnR.jpg)
+
 *Imagen: Niños y Grooming/Depredadores Online - Centro de Prevención del Crimen Infantil y Seguridad*
+
 
 ## 2.3. Señales de Alerta y Prevención
 
@@ -54,7 +56,9 @@ Es fundamental que padres, docentes y tutores estén atentos a las señales de a
 **Evitación de Temas:** El menor evita hablar sobre sus actividades en línea o se muestra incómodo al respecto.
 
 ![Ciberacoso en la Era COVID-19](../imagenes/J1XivX2cviz6.jpg)
+
 *Imagen: Ciberacoso en la era de COVID-19 - Cómo proteger a tu hijo durante el aprendizaje remoto*
+
 
 ## 2.4. Estrategias de Prevención y Protección
 
@@ -71,13 +75,16 @@ La protección de menores en el entorno digital requiere un enfoque integral que
 **Establecer Límites:** Definir reglas claras sobre el tiempo de uso de pantallas, las plataformas permitidas y el tipo de contenido al que pueden acceder.
 
 ![Tipos y Efectos del Ciberacoso](../imagenes/Gl5OnqC1WtoC.png)
+
 *Imagen: Ciberacoso - Tipos, efectos y consejos para padres - Centro Legal para Víctimas de Redes Sociales*
+
 
 **Reportar y Bloquear:** Enseñar a los menores a bloquear a usuarios sospechosos y a reportar cualquier incidente de grooming o ciberacoso a las autoridades competentes (ej. fiscalías especializadas, unidades de delitos informáticos) y a las plataformas.
 
 **Fomentar Actividades Offline:** Promover actividades fuera de línea para equilibrar el tiempo de pantalla y desarrollar habilidades sociales en el mundo real.
 
 ![Mantener a los Niños Seguros Online](../imagenes/iHT4jJMMT43s.webp)
+
 *Imagen: Cómo mantener a los niños seguros online durante la educación en casa - Guía de seguridad digital*
 
 La prevención del grooming y la protección de menores en redes sociales es una responsabilidad compartida que requiere la colaboración activa de todos los actores involucrados en la vida de los niños, niñas y adolescentes.
