@@ -51,6 +51,7 @@ El panorama de amenazas cibernéticas es dinámico y complejo. Los atacantes uti
 - Spyware: Recopila información sobre el usuario sin su conocimiento.
 
 ![Comparación Ransomware vs Malware vs Phishing](../imagenes/9dQ9nPt7vOnQ.jpg)
+
 *Imagen: Guía de prevención gratuita - Diferencias entre Ransomware, Malware y Phishing*
 
 **Phishing:** Un tipo de ataque de ingeniería social donde los atacantes se hacen pasar por entidades confiables para engañar a las víctimas y obtener información sensible como nombres de usuario, contraseñas y detalles de tarjetas de crédito [2]. Se realiza comúnmente a través de correos electrónicos, pero también puede ocurrir por SMS (smishing) o llamadas telefónicas (vishing).
@@ -58,6 +59,7 @@ El panorama de amenazas cibernéticas es dinámico y complejo. Los atacantes uti
 **Ingeniería Social:** Manipulación psicológica de personas para que realicen acciones o divulguen información confidencial. Es el vector de ataque más común, ya que explota la confianza y la falta de conocimiento de los usuarios.
 
 ![Diferencias entre Ransomware, Malware y Phishing](../imagenes/4ENEYaH90x0b.png)
+
 *Imagen: Infografía comparativa - ¿Cuál es la diferencia entre Ransomware, Malware y Phishing?*
 
 **Ataques de Denegación de Servicio (DoS/DDoS):** Intentos de hacer que un servicio en línea no esté disponible al sobrecargar el servidor con tráfico de internet. En el ámbito educativo, esto podría interrumpir el acceso a plataformas de aprendizaje.
@@ -69,6 +71,7 @@ El panorama de amenazas cibernéticas es dinámico y complejo. Los atacantes uti
 **Amenazas Persistentes Avanzadas (APT):** Ataques sofisticados y prolongados donde un atacante obtiene acceso a una red y permanece sin ser detectado durante un período extendido para robar datos.
 
 ![Top 10 Amenazas de Ciberseguridad](../imagenes/aqyRCph4gpyt.png)
+
 *Imagen: Las 10 principales amenazas de ciberseguridad - Actualización 2025 de ConnectWise*
 
 La comprensión de estas amenazas y cómo operan es el primer paso para desarrollar una postura de ciberseguridad robusta, tanto a nivel individual como organizacional.
