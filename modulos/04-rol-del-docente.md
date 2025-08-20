@@ -3,7 +3,9 @@
 En la era digital, el rol del docente e instructor trasciende la mera transmisión de conocimientos académicos. Se convierten en figuras clave para guiar a estudiantes y colegas en el uso seguro y responsable de la tecnología, especialmente en el ámbito de la ciberseguridad. Su influencia es fundamental para construir una cultura de seguridad sólida dentro de la institución [5].
 
 ![Por qué es importante enseñar Ciberseguridad en las escuelas](../imagenes/XTA903vUFhfc.jpg)
+
 *Imagen: ¿Por qué es tan importante enseñar Ciberseguridad en las escuelas? - Reflexión sobre educación digital*
+
 
 ## 4.1. La Importancia del Docente como Agente de Cambio
 
@@ -20,7 +22,9 @@ Los docentes e instructores están en una posición privilegiada para:
 **Promover la Concientización:** Organizar o participar en actividades de concientización, seminarios y talleres que refuercen la importancia de la ciberseguridad.
 
 ![Alfabetización Digital - Cómo Enseñar Habilidades Digitales](../imagenes/VSvvGMjidUKo.png)
+
 *Imagen: Alfabetización Digital - Cómo enseñar habilidades digitales en el aula - Observatorio Tecnológico*
+
 
 ## 4.2. Responsabilidad Institucional en la Prevención y Concientización
 
@@ -37,7 +41,9 @@ La institución educativa, a través de sus docentes e instructores, tiene una r
 **Fomento de una Cultura de Seguridad:** Ir más allá de la capacitación y las políticas, promoviendo un ambiente donde la seguridad de la información sea vista como una responsabilidad compartida y un valor fundamental de la institución.
 
 ![Estrategias Comprobadas para Apoyar la Alfabetización Digital](../imagenes/FRi6CRC61esN.jpg)
+
 *Imagen: Estrategias comprobadas para apoyar la alfabetización digital - Learning.com*
+
 
 ## 4.3. Estrategias para Docentes e Instructores
 
