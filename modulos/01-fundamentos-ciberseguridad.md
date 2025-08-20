@@ -3,6 +3,7 @@
 La ciberseguridad es una disciplina en constante evolución que busca proteger los sistemas, redes y programas de ataques digitales. Estos ciberataques están diseñados para acceder, cambiar o destruir información sensible; extorsionar dinero a los usuarios; o interrumpir los procesos normales del negocio [1]. En el contexto educativo y militar, la comprensión de estos fundamentos es vital para salvaguardar la información institucional y personal.
 
 ![Tríada CIA - Confidencialidad, Integridad, Disponibilidad](../imagenes/OKvYNlCM5qSL.jpg)
+
 *Imagen: Infografía de la Tríada CIA en Ciberseguridad - Explicación detallada de los tres pilares fundamentales*
 
 ## 1.1. Conceptos Clave de la Ciberseguridad
